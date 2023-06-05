@@ -8,9 +8,6 @@ This is a reimplementation of Minecraft's original test versions made available 
 ## rd-132328
 ![rd-132328](screenshots/rd-132328.png)
 
-## rd-20090515
-WIP
-
 ## rd-160052
 WIP
 
